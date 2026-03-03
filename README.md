@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=edvictoranalytics&show_icons=true&theme=radical)](https://github.com/edvictoranalytics/github-readme-stats)
-
-
-
----
-
 ## 📌 Sobre mim
 
 - 📚 Estudando Análise de Dados
