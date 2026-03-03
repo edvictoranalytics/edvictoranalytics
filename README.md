@@ -21,7 +21,7 @@
 
 ## 📊 Estatísticas
 
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/edvictoranalystics/github-readme-stats)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=edvictoranalytics&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
